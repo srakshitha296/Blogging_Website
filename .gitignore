@@ -1,0 +1,19 @@
+# Django project files
+*.pyc
+__pycache__/
+db.sqlite3
+media/
+staticfiles/
+
+# Environment variables (if used)
+.env
+
+# IDE/Editor specific files (optional)
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and backups (if any)
+*.log
+*.bak
